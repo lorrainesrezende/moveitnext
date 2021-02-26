@@ -59,7 +59,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:lorrainesrezende/moveitnext.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd move.it
+$ cd moveitnext
 
 # Instale as dependências
 $ npm install
