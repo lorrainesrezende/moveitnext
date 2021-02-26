@@ -18,21 +18,14 @@
 }
 
 .container span > img {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin-right: 10px;
-    position: absolute;
-    left: 955px;
-    top: 63px;
+    display: table-cell;
+    float: right;
+    margin: 0 auto;
 }
 
 .container span > a {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    margin-right: 10px;
-    position: absolute;
-    left: 980px;
-    top: 63px;
+    display: table-cell;
+    float: right;
+    margin: 0 auto;
+    padding-right: 0.25rem;
 }
