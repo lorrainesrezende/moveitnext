@@ -33,7 +33,7 @@ export default function Home(props: HomeProps) {
         <div>
           <img src="/logo-full.svg" alt="Logo"/>
           <span><img src="/icons/github.png" alt="GitHub" height="17" width="17" />
-          <a href="https://github.com/lorrainesrezende/moveit" target="_blank" >lorrainesrezende</a>
+          <a href="https://github.com/lorrainesrezende/moveitnext" target="_blank" >lorrainesrezende</a>
           </span>
         </div>
       </div>
